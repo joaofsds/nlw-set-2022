@@ -38,13 +38,13 @@ header {
 }
 
 header div {
-  width: 120px;
+  width: 100%;
   margin: auto;
   background-image: linear-gradient(
     90deg,
     #9572fc 0%,
     #43e7ad 50.52%,
-    #e2d45c 99%
+    #e2d45c 100%
   );
   border-radius: 50%;
   display: flex;
@@ -52,7 +52,7 @@ header div {
 
   transition: transform 0.3s;
 
-  animation: fromTop 0.7s backwards;
+  animation: fromTop 0.7s 0.2s backwards;
 }
 
 header div:hover {
