@@ -7,7 +7,3 @@ Projeto desenvolvido na semana de evento gratuito da Rocketseat, trilha Explorer
 - HTML
 - CSS
 - Git e Github
-
-## Contato 📧
-
-joao.fsds@gmail.com
